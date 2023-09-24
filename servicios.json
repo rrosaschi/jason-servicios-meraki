@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Peluquería",
+        "precio": 3000
+    },
+    {
+        "nombre": "Manicuría",
+        "precio": 2000
+    },
+    {
+        "nombre": "Tratamiento Facial",
+        "precio": 3500
+    },
+    {
+        "nombre": "Tratamiento Corporal",
+        "precio": 5000
+    },
+	{
+        "nombre": "Pedicuría",
+        "precio": 3500
+    }
+]
